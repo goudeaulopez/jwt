@@ -1,0 +1,19 @@
+{
+  "name": "fullstacktemplate",
+  "version": "1.0.0",
+  "description": "it is a simple template for express and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goudeaulopez/fullstackTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goudeaulopez/fullstackTemplate/issues"
+  },
+  "homepage": "https://github.com/goudeaulopez/fullstackTemplate#readme"
+}
