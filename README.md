@@ -1,2 +1,2 @@
-# fullstackTemplate
-it is a simple template for express and react
+# Jwt demo
+Authentication with json web tokens JWT
